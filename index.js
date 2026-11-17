@@ -1,3 +1,6 @@
 function name() {
-    console.log('Srijan Bera')
+    console.log('Srijan')
+}
+function titel() {
+    console.log('Bera')
 }
