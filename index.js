@@ -6,4 +6,5 @@ function titel() {
 }
 function addres() {
     console.log('Srijan adress')
+    cosole.log('West Bengal')
 }
