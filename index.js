@@ -4,6 +4,3 @@ function name() {
 function titel() {
     console.log('Bera')
 }
-function addres() {
-    console.log('Srijan adress')
-}
