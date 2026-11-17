@@ -11,9 +11,6 @@ function mul(a,b) {
     return a*b
 }
 
-function div(a,b) {
-    return a/b
-}
 add(4,7)
 sub(5,2)
-div(30,5)
+mul(4,6)
